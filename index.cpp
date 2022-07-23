@@ -1,4 +1,3 @@
-// Include all the necessary libraries.
 #include <fstream>
 #include <iostream>
 #include <stdio.h>
